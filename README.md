@@ -1,4 +1,4 @@
-- Tnterested in Crypto and DeFi
+- Interested in Crypto and DeFi
 - Currently learning about blockchain and ML/DL.
 
 <!---
